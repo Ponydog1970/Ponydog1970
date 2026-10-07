@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="TRINITY AI LABS MUNICH – Local-first AI, accessibility first">
+  <title>TRINITY AI LABS MUNICH. (Some say a prince works here. Figuratively.)</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05060b"/><stop offset="1" stop-color="#0b1020"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
+    <style>
+      .scan{animation:scan 6s linear infinite}
+      @keyframes scan{0%{transform:translateY(-40px)}100%{transform:translateY(340px)}}
+      .blink{animation:blink 1.1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      .pulse{animation:pulse 3s ease-in-out infinite}
+      @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+      .run{animation:run 9s linear infinite}
+      @keyframes run{0%{transform:translate(-40px,0)}38%{transform:translate(430px,0)}44%{transform:translate(515px,-16px)}50%{transform:translate(610px,0)}100%{transform:translate(1240px,0)}}
+      .legs{animation:legs .3s steps(1) infinite}
+      @keyframes legs{50%{transform:scaleX(-1)}}
+      .sand{animation:sand 1.6s linear infinite}
+      @keyframes sand{0%{transform:translateY(0);opacity:1}100%{transform:translateY(14px);opacity:0}}
+      .top{animation:drain 20s linear infinite;transform-origin:1128px 263px}
+      @keyframes drain{0%{transform:scaleY(1)}100%{transform:scaleY(.15)}}
+      .mono{font-family:'SF Mono',Menlo,Consolas,monospace}
+      .sans{font-family:-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif}
+    </style>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)" opacity=".55"/>
+  <!-- orbit / trinity mark -->
+  <g transform="translate(140 130)" filter="url(#glow)" class="pulse">
+    <circle r="62" fill="none" stroke="url(#neon)" stroke-width="2"/>
+    <path d="M0-48 L41.6 24 L-41.6 24 Z" fill="none" stroke="#22d3ee" stroke-width="2.5"/>
+    <circle cy="-48" r="5" fill="#22d3ee"/><circle cx="41.6" cy="24" r="5" fill="#a78bfa"/><circle cx="-41.6" cy="24" r="5" fill="#f472b6"/>
+    <circle r="7" fill="#e2e8f0"/>
+  </g>
+  <text x="250" y="118" class="sans" font-size="64" font-weight="800" letter-spacing="6" fill="url(#neon)" filter="url(#glow)">TRINITY AI LABS</text>
+  <text x="254" y="152" class="mono" font-size="20" letter-spacing="12" fill="#94a3b8">MUNICH · BAVARIA</text>
+  <text x="254" y="190" class="mono" font-size="17" fill="#e2e8f0">&gt; local-first AI · accessibility first · built on Apple silicon<tspan class="blink" fill="#22d3ee"> ▌</tspan></text>
+  <text x="254" y="214" class="mono" font-size="15" fill="#64748b">&gt; Lokale KI, die bleibt. Für Menschen, die die Welt anders sehen.</text>
+  <!-- ground line with a gap (the abyss) -->
+  <path d="M0 290 H470 M560 290 H1090" stroke="#334155" stroke-width="2"/>
+  <path d="M470 290 v30 M560 290 v30" stroke="#1e293b" stroke-width="2"/>
+  <!-- the runner (figurative prince) -->
+  <g class="run">
+    <g transform="translate(0 258)" fill="#e2e8f0">
+      <rect x="6" y="0" width="8" height="8"/>
+      <rect x="4" y="8" width="12" height="12" fill="#a78bfa"/>
+      <rect x="0" y="10" width="4" height="3"/><rect x="16" y="10" width="6" height="3"/>
+      <rect x="16" y="9" width="10" height="1.5" fill="#22d3ee"/>
+      <g class="legs" style="transform-origin:10px 26px"><rect x="4" y="20" width="4" height="12"/><rect x="12" y="20" width="4" height="9"/></g>
+    </g>
+  </g>
+  <!-- hourglass -->
+  <g transform="translate(1110 236)" filter="url(#glow)">
+    <title>Time is a feature. Rewind available. (git revert)</title>
+    <path d="M0 0 H36 M0 54 H36 M4 0 C4 20 32 34 32 54 M32 0 C32 20 4 34 4 54" fill="none" stroke="#f472b6" stroke-width="2"/>
+    <path class="top" d="M8 6 H28 C28 14 20 20 18 24 C16 20 8 14 8 6 Z" fill="#fbbf24"/>
+    <rect class="sand" x="17" y="25" width="2" height="6" fill="#fbbf24"/>
+    <path d="M8 50 H28 C26 44 20 42 18 41 C16 42 10 44 8 50 Z" fill="#fbbf24"/>
+  </g>
+  <text x="1188" y="312" text-anchor="end" class="mono" font-size="10" fill="#e2e8f0" opacity=".14">// level 1 · 60:00 · prince.of.munich — rewinds time, not commits</text>
+  <rect class="scan" x="0" y="0" width="1200" height="2" fill="#22d3ee" opacity=".18"/>
+</svg>
