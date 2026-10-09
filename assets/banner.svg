@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
-  <title id="t">TRINITY AI LABS · Munich</title>
-  <desc id="d">Three warm overlapping rings — people, voice and technology — with gentle sound waves at their centre; TRINITY in braille. Most software asks you to look. We build software that listens. Come in, build what makes sense.</desc>
+  <title id="t">LUNAVER AI · Munich</title>
+  <desc id="d">Three warm overlapping rings — people, voice and technology — with gentle sound waves at their centre; LUNAVER in braille. Most software asks you to look. We build software that listens. Come in, build what makes sense.</desc>
   <defs>
     <clipPath id="card"><rect width="1200" height="360" rx="18"/></clipPath>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a1830"/><stop offset=".5" stop-color="#1a1426"/><stop offset="1" stop-color="#120f1d"/></linearGradient>
@@ -41,13 +41,13 @@
   <circle class="core" cx="176" cy="180" r="7" fill="#fff7ed" filter="url(#glow)"/>
 
   <g class="sans" font-size="68" font-weight="800" letter-spacing="6">
-    <text x="337" y="126" fill="url(#sun)" filter="url(#warm)">TRINITY AI LABS</text>
-    <text x="337" y="126" fill="url(#shine)">TRINITY AI LABS</text>
+    <text x="337" y="126" fill="url(#sun)" filter="url(#warm)">LUNAVER AI</text>
+    <text x="337" y="126" fill="url(#shine)">LUNAVER AI</text>
   </g>
   <text x="340" y="160" font-size="15" letter-spacing="9" fill="#fecdd3" fill-opacity=".85">MUNICH · LOCAL-FIRST · VOICE-FIRST</text>
 
-  <g class="braille" filter="url(#glow)"><circle cx="340" cy="215" r="2.6"/><circle cx="340" cy="222" r="2.6"/><circle cx="347" cy="208" r="2.6"/><circle cx="347" cy="215" r="2.6"/><circle cx="362" cy="208" r="2.6"/><circle cx="362" cy="215" r="2.6"/><circle cx="362" cy="222" r="2.6"/><circle cx="369" cy="215" r="2.6"/><circle cx="384" cy="215" r="2.6"/><circle cx="391" cy="208" r="2.6"/><circle cx="406" cy="208" r="2.6"/><circle cx="406" cy="222" r="2.6"/><circle cx="413" cy="208" r="2.6"/><circle cx="413" cy="215" r="2.6"/><circle cx="428" cy="215" r="2.6"/><circle cx="435" cy="208" r="2.6"/><circle cx="450" cy="215" r="2.6"/><circle cx="450" cy="222" r="2.6"/><circle cx="457" cy="208" r="2.6"/><circle cx="457" cy="215" r="2.6"/><circle cx="472" cy="208" r="2.6"/><circle cx="472" cy="222" r="2.6"/><circle cx="479" cy="208" r="2.6"/><circle cx="479" cy="215" r="2.6"/><circle cx="479" cy="222" r="2.6"/></g>
-  <text x="504" y="223" font-size="13" fill="#ffd8a8" fill-opacity=".8">← TRINITY, in braille</text>
+  <g class="braille" filter="url(#glow)"><circle cx="340" cy="208" r="2.6"/><circle cx="340" cy="215" r="2.6"/><circle cx="340" cy="222" r="2.6"/><circle cx="362" cy="208" r="2.6"/><circle cx="362" cy="222" r="2.6"/><circle cx="369" cy="222" r="2.6"/><circle cx="384" cy="208" r="2.6"/><circle cx="384" cy="222" r="2.6"/><circle cx="391" cy="208" r="2.6"/><circle cx="391" cy="215" r="2.6"/><circle cx="406" cy="208" r="2.6"/><circle cx="428" cy="208" r="2.6"/><circle cx="428" cy="215" r="2.6"/><circle cx="428" cy="222" r="2.6"/><circle cx="435" cy="222" r="2.6"/><circle cx="450" cy="208" r="2.6"/><circle cx="457" cy="215" r="2.6"/><circle cx="472" cy="208" r="2.6"/><circle cx="472" cy="215" r="2.6"/><circle cx="472" cy="222" r="2.6"/><circle cx="479" cy="215" r="2.6"/></g>
+  <text x="504" y="223" font-size="13" fill="#ffd8a8" fill-opacity=".8">← LUNAVER, in braille</text>
 
   <g class="a"><text x="340" y="270" font-size="21" fill="#fff7ed">Most software asks you to look.</text>
     <text x="340" y="296" font-size="16" fill="#e9d5c9" fill-opacity=".85">Die meiste Software will, dass du hinsiehst.</text></g>
