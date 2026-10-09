@@ -6,12 +6,12 @@
 -->
 
 <p align="center">
-  <img src="assets/banner.svg" alt="TRINITY AI LABS MUNICH" width="100%">
+  <img src="assets/banner.svg" alt="TRINITY AI LABS Munich — an eye closes and starts to listen; TRINITY in braille. We build software that listens." width="100%">
 </p>
 
 <p align="center">
   <a href="https://lunaver.app"><img src="https://img.shields.io/badge/lunaver.app-0b1020?style=for-the-badge&logo=safari&logoColor=22d3ee" alt="lunaver.app"></a>
-  <a href="https://apps.apple.com/app/id6760931487"><img src="https://img.shields.io/badge/Mac_App_Store-0b1020?style=for-the-badge&logo=apple&logoColor=e2e8f0" alt="Mac App Store"></a>
+  <a href="https://apps.apple.com/app/id6793892216"><img src="https://img.shields.io/badge/Mac_App_Store-0b1020?style=for-the-badge&logo=apple&logoColor=e2e8f0" alt="Mac App Store"></a>
   <img src="https://img.shields.io/badge/Munich-0b1020?style=for-the-badge&logo=googlemaps&logoColor=f472b6" alt="Munich">
 </p>
 
