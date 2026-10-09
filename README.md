@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="assets/banner.svg" alt="TRINITY AI LABS Munich — three warm overlapping rings with sound waves at their centre; TRINITY in braille. We build software that listens." width="100%">
+  <img src="assets/banner.svg" alt="LUNAVER AI Munich — three warm overlapping rings with sound waves at their centre; LUNAVER in braille. We build software that listens." width="100%">
 </p>
 
 <p align="center">
