@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="assets/banner.svg" alt="TRINITY AI LABS Munich — an eye floating between three beams of light closes and starts to listen; TRINITY in braille. We build software that listens." width="100%">
+  <img src="assets/banner.svg" alt="TRINITY AI LABS Munich — three warm overlapping rings with sound waves at their centre; TRINITY in braille. We build software that listens." width="100%">
 </p>
 
 <p align="center">
