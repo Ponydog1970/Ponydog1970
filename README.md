@@ -99,6 +99,7 @@
 </details>
 
 <p align="center">
-  <sub><a href="https://trinity-labs-munich.com"><code>TRINITY AI LABS · Munich</code></a> <code>· local-first since day one</code></sub><br>
+  <sub><a href="https://trinity-ai-labs.com"><code>TRINITY AI LABS · Munich</code></a> <code>· local-first since day one</code></sub><br>
   <sub title="The sands of time are on our side.">⧗</sub>
 </p>
+
